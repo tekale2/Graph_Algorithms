@@ -1,0 +1,16 @@
+/*
+Developed by Divyesh M Tekale
+UIN: 923004428
+Fall 2015
+CSCE 629
+*/
+
+1. To run just run make and then run ./max_bandwidth
+2. A output.txt file will contain the statistics of the test run.
+3. I have also added a test graph to the file. To run the test graph
+you will have to uncomment the #debug line in grap_data_struct.h
+4. Please note that if you are using your own test graph file
+you will need to change the number vertices in the grap_data_struct.h
+Also the format of the file is the first line contains number of edges E
+and the following E lines contain v w weight. 
+

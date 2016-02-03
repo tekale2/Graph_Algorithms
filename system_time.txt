@@ -1,0 +1,16 @@
+Running Kruskal
+The total system runtime for Kruskal was0 secs and 15555 usecs
+Running dijkstra
+The total system runtime for normal dijkstra was0 secs and 771680 usecs
+Running heap_dijkstra
+The total system runtime for heap dijkstra was0 secs and 28986 usecs
+Running DFS
+The total system runtime for normal dfs was0 secs and 729316 usecs
+Running Kruskal
+The total system runtime for Kruskal was4 secs and 21148 usecs
+Running dijkstra
+The total system runtime for normal dijkstra was1 secs and 442832 usecs
+Running heap_dijkstra
+The total system runtime for heap dijkstra was0 secs and 796437 usecs
+Running DFS
+The total system runtime for normal dfs was0 secs and 769049 usecs
